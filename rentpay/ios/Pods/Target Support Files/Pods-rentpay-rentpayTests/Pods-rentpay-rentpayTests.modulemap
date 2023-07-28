@@ -1,0 +1,6 @@
+module Pods_rentpay_rentpayTests {
+  umbrella header "Pods-rentpay-rentpayTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

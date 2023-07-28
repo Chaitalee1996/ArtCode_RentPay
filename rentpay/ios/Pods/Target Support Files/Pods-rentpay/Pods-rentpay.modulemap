@@ -1,0 +1,6 @@
+module Pods_rentpay {
+  umbrella header "Pods-rentpay-umbrella.h"
+
+  export *
+  module * { export * }
+}
